@@ -1,0 +1,7 @@
+HEIGHT = 400
+WIDTH = 600
+CAR_W = 40
+CAR_H = 20
+FG_COLOR = "black"
+BG_COLOR = "white"
+TOTAL_CARS =10
